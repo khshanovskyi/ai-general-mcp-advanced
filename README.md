@@ -143,5 +143,5 @@ Check if Arkadiy Dobkin present as a user, if not then search info about him in 
 
 - [MCP Specification](https://spec.modelcontextprotocol.io/)
 - [JSON-RPC 2.0 Specification](https://www.jsonrpc.org/specification)
-- [Server-Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
+- [MCP Error Codes](https://www.mcpevals.io/blog/mcp-error-codes)
 - [OpenAI Function Calling](https://platform.openai.com/docs/guides/function-calling)
